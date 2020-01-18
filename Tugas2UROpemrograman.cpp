@@ -23,7 +23,7 @@ int main(){
     l = 1;
 
 
-    k = 1; // k menandakan banyaknya suku yang ada saata ini
+    k = 1; // k menandakan banyaknya suku yang ada saat ini
     while(l ==1 )
     {
 
